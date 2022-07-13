@@ -3,7 +3,10 @@
 ## 🚀 About Me
 
 🎓 I am **Vladislav Novikov**, a bachelor of the **Applied Mathemtics & Informatics** in the **Vernadsky CFU** and I will graduate in mid-2022.
+
 👩‍💻**Trainee developer** at **Yandex** in August-December 2021. **Hermione Development Group and its infrastructure**. I've been developing **Hermione** and her plugins in **JS/TS** and **CI** tasks in **Python**.
+
+👩‍ **Python Backend developer** at **VolnaMobile** from March 2022. APIs with FastAPI and billing integrations on sockets.
 
 ## 🏅 Achievements
 
